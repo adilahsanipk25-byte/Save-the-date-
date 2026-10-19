@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Save the Date</title>
+    <style>
+        body {
+            font-family: 'Georgia', serif;
+            background-color: #fdfbf7;
+            color: #333;
+            text-align: center;
+            padding: 50px 20px;
+            margin: 0;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background: #ffffff;
+            padding: 40px;
+            border-radius: 15px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #d4af37;
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+        h2 {
+            font-size: 1.8em;
+            color: #555;
+            margin-top: 0;
+        }
+        p {
+            font-size: 1.2em;
+            line-height: 1.6;
+            color: #666;
+        }
+        .date {
+            font-size: 1.5em;
+            color: #2c3e50;
+            font-weight: bold;
+            margin: 20px 0;
+        }
+        .footer {
+            margin-top: 30px;
+            font-size: 1em;
+            color: #888;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <p>Save the Date</p>
+        <h1>Lukmanul Hakeem& laila Rabiya v p</h1>
+        <h2>ഞങ്ങളുടെ വിവാഹത്തിലേക്ക് സ്വാഗതം</h2>
+        <p>ഞങ്ങളുടെ ജീവിതത്തിലെ ഏറ്റവും സന്തോഷകരമായ നിമിഷത്തിലേക്ക് നിങ്ങളുടെ സാന്നിധ്യവും പ്രാർത്ഥനയും ഞങ്ങൾ സ്നേഹപൂർവ്വം ക്ഷണിക്കുന്നു.</p>
+        
+        <div class="date">
+            തീയതി: 2026 october 21<br>
+            സ്ഥലം: Androth, Lakshadweep
+        </div>
+
+        <div class="footer">
+            സ്നേഹത്തോടെ,<br>Lukku & Laila
+        </div>
+    </div>
+
+</body>
+</html>
